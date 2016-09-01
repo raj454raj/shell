@@ -1,5 +1,5 @@
 Commands implemented
-
+```
 ls
 ls directory
 ls -a 
@@ -19,3 +19,4 @@ rm -r dir
 dirstr
 dirstr dir
 clear
+```
